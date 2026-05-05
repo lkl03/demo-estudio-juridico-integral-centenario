@@ -1,2 +1,7 @@
-# demo-estudio-juridico-integral-centenario
-Demo web para Estudio Jurídico Integral Centenario — diseñada por eterlab.
+# Estudio Jurídico Integral Centenario
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
